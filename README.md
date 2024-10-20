@@ -1,5 +1,5 @@
 Python Libraries
 
 imutils
-cv2
+cvzone
 numpy
